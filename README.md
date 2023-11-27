@@ -1,18 +1,18 @@
-# SynthIQ
+# synthiq
 
-SynthIQ is a versatile SaaS AI application that combines the power of Next.js 13, React, Tailwind, and Prisma. It's your all-in-one platform for generating images, videos, music, code, and engaging in conversations.
+synthiq is a versatile SaaS AI application that combines the power of Next.js 13, React, Tailwind, and Prisma. It's your all-in-one platform for generating images, videos, music, code, and engaging in conversations.
 
 ## Features
 
-1. **Image Generation**: Create stunning visuals with SynthIQ's advanced image generation capabilities.
+1. **Image Generation**: Create stunning visuals with synthiq's advanced image generation capabilities.
 
 2. **Video Generation**: Craft engaging videos effortlessly using AI-driven video generation tools.
 
-3. **Music Generation**: Let SynthIQ compose original tunes for your projects with its innovative music generation feature.
+3. **Music Generation**: Let synthiq compose original tunes for your projects with its innovative music generation feature.
 
-4. **Code Generation**: Simplify your coding tasks with SynthIQ's AI-driven code generation, making development faster and more efficient.
+4. **Code Generation**: Simplify your coding tasks with synthiq's AI-driven code generation, making development faster and more efficient.
 
-5. **Conversations**: Engage in conversations with SynthIQ's conversational AI, providing a unique and interactive experience.
+5. **Conversations**: Engage in conversations with synthiq's conversational AI, providing a unique and interactive experience.
 
 ## Tech Stack
 
@@ -26,7 +26,7 @@ SynthIQ is a versatile SaaS AI application that combines the power of Next.js 13
 
 ## Getting Started
 
-Follow these steps to get SynthIQ up and running:
+Follow these steps to get synthiq up and running:
 
 1. Clone the repository:
 
@@ -47,14 +47,14 @@ Follow these steps to get SynthIQ up and running:
    npm run dev
    ```
 
-4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore SynthIQ.
+4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore synthiq.
 
 ## Contributing
 
-We welcome contributions from the community to make SynthIQ even more powerful and user-friendly. Feel free to open issues, submit pull requests, and participate in discussions.
+We welcome contributions from the community to make synthiq even more powerful and user-friendly. Feel free to open issues, submit pull requests, and participate in discussions.
 
 ## License
 
-SynthIQ is licensed under the [MIT License](LICENSE), allowing you to use and modify it as per your requirements.
+synthiq is licensed under the [MIT License](LICENSE), allowing you to use and modify it as per your requirements.
 
-Explore the endless possibilities with SynthIQ!
+Explore the endless possibilities with synthiq!
