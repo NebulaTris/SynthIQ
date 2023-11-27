@@ -1,5 +1,6 @@
-# synthiq
-
+<p align="center"><img src="logo.png"></img></p>
+<p align="center">
+   
 synthiq is a versatile SaaS AI application that combines the power of Next.js 13, React, Tailwind, and Prisma. It's your all-in-one platform for generating images, videos, music, code, and engaging in conversations.
 
 ## Features
