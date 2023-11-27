@@ -52,7 +52,7 @@ Follow these steps to get synthiq up and running:
 
 ## Contributing
 
-We welcome contributions from the community to make synthiq even more powerful and user-friendly. Feel free to open issues, submit pull requests, and participate in discussions.
+We welcome contributions from the community to make synthiq even more powerful and user-friendly. Feel free to open issues, submit pull requests, and participate in discussions. To know more checkout [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
