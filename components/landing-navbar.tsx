@@ -1,6 +1,6 @@
 "use client";
 
-import { Montserrat } from "next/font/google";
+import { Advent_Pro } from "next/font/google";
 import Image from "next/image"
 import Link from "next/link"
 import { useAuth } from "@clerk/nextjs";
@@ -8,7 +8,7 @@ import { useAuth } from "@clerk/nextjs";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 
-const font = Montserrat({ weight: '600', subsets: ['latin'] });
+const font = Advent_Pro({ weight: '700', subsets: ['latin']});
 
 export const LandingNavbar = () => {
   const { isSignedIn } = useAuth();
@@ -19,8 +19,8 @@ export const LandingNavbar = () => {
         <div className="relative h-8 w-8 mr-4">
           <Image fill alt="Logo" src="/logo.png" />
         </div>
-        <h1 className={cn("text-2xl font-bold text-white", font.className)}>
-          Genius
+        <h1 className={cn("text-3xl font-bold text-white", font.className)}>
+          synthiq
         </h1>
       </Link>
       <div className="flex items-center gap-x-2">
